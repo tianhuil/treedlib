@@ -10,4 +10,5 @@ setup(
     ],
     url='https://github.com/HazyResearch/treedlib',
     author='Hazy Research',
+    author_email='example@example.com',
 )
